@@ -4,7 +4,12 @@ medical consultation management application for doctors and patients
 
 ## Screenshots
 
-![App Screenshot](![image](https://github.com/iIonel/HospitalPlanner/assets/45739581/a4cff87f-e9eb-44d7-8cfd-3ed11fd4123d))
+![image](https://github.com/iIonel/HospitalPlanner/assets/45739581/09f04715-06d1-45a7-85dc-646639d0613f)
+![image](https://github.com/iIonel/HospitalPlanner/assets/45739581/cda82083-a76b-4eaf-a888-73bc258369d9)
+![image](https://github.com/iIonel/HospitalPlanner/assets/45739581/5220db6a-faa0-4858-b54b-18b6c0c361e0)
+![image](https://github.com/iIonel/HospitalPlanner/assets/45739581/4fa8b710-c5c5-4f6a-befc-0e5e239179c3)
+![image](https://github.com/iIonel/HospitalPlanner/assets/45739581/3e4f6844-6442-4cfe-b11b-c976c6050df1)
+
 
 ## Resume
 
